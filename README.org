@@ -1,0 +1,28 @@
+#+TITLE: Ktwgit-基于 Kotlin 的 Gitbucket
+
+:drawerhead:
+#+OPTIONS: toc:nil num:nil H:4 ^:nil pri:t
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-bigblow.setup
+:end:
+
+* 简介
+
+以 Kotlin 相关开源框架，完成 Gitbucket 实现的主要功能。
+
+* 技术栈
+
+拟选用:
+
+  - Ktor
+  - Kotlinx.html
+  - Kotlinx.serialization
+  - Exposed or Ktorm
+  - Jgit
+  - PostgreSQL
+  - Keycloak
+
+* License
+
+Copyright \copy 2020, Kwgit. All Rights Reserved. 
+
+Licensed under [[https://opensource.org/licenses/BSD-2-Clause][BSD-2-Clause]].
